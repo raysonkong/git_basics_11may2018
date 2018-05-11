@@ -1,0 +1,3 @@
+# ignore all SQLite databases
+# .gitignore is stored in the project root
+db/*.sqlite3
